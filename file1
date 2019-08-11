@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h2>HTML Image</h2>
+<img src="Desktop/Scottish-High-International-School.jpg" >
+
+<h1 style="color:blue;">Scottish High-A landmark in structure, a hallmark in education</h1>
+<p>As one approaches Scottish High International School, what strikes the most is the imposing structure. 
+The fantastic earthy and rusted brick facade makes one fall in love at the first sight. 
+The roof clad with gray tiles and stylish mouldings are reminiscent of venerable English institutions and are built in typical Scottish style architecture that justifies the name of the school, aesthetically designed with all modern facilities that cater to the needs of the students.  
+It is spread over 5 acres of land with beautiful landscaping and well-developed eco-friendly plantations.
+As you enter the campus the first impression which also leaves a lasting impression is that of space. 
+The facilities and infrastructure in this e-campus are latest and designed with a futuristic approach. 
+The school has a well-designed spacious waiting lounge and the front office equipped with modern technology is manned by professionally trained counsellors who receive parents and provide assistance.</p>
+
+
+<h1 style="color:red;">Core Values</h1>
+<p>Core Values
+Scottish High believes in enabling holistic growth and development of its students by:-
+Building Compassion
+Ensuring Growth- Intellectual, Physical and Emotional
+Empowering Young Minds
+Ensuring Safe Environment and well-being
+Developing Creativity</p>
+
+
+<h1 style="color:green;">We learn as we grow</h1>
+<p>“We learn as we grow and we grow as we learn.
+” so aptly befitting the 14 years young, ‘The Scottish High International School’
+ that has rolled so confidently on the wheels of speedy success, be it in the field of education or co-curricular activities, 
+winning laurels and accolades in the State and the Country.</p>
+
+<h1 style="color:grey;">“INTERROGO,   PERCIPIO,   ADICIO” </h1> 
+<p> which, when translated from Latin to English, reads “Question, Understand, Apply”. With this as the motto, Scottish High endeavours in ‘Building Personalities, Not Just People’ by laying a strong foundation of Mind, Body, and Spirit, by way of seeking,
+analyzing and practicing knowledge in all facets of life.</p>
+
+
+</body>
+</html>
